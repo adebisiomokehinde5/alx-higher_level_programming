@@ -1,3 +1,4 @@
+
  INTRODUCTION TO ALX-HIGHER LEVEL PROGRAMMING (PYTHON)
 
 Python is a high-level, general-purpose programming language known for its simplicity, readability, and versatility. Guido van Rossum created Python, and it was first released in 1991. Here's a brief introduction to some key aspects of Python:
@@ -20,4 +21,4 @@ Cross-Platform: Python is cross-platform, meaning code written in Python can run
 
 Versatility: Python is suitable for a wide range of applications, including web development, data analysis, artificial intelligence, machine learning, automation, and more. Its versatility has contributed to its widespread adoption in various domains.
 
-Overall, Python's simplicity, readability, and extensive capabilities have made it a popular choice for developers across different industries. Its large and active community ensures ongoing support, updates, and the development of new tools and libraries.
+Overall, Python's simplicity, readability, and extensive capabilities have made it a popular choice for developers across different industries. Its large and active community ensures ongoing support, updates, and the development of new tools and libraries.end.
