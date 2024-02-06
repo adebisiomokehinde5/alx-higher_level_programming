@@ -21,4 +21,4 @@ Cross-Platform: Python is cross-platform, meaning code written in Python can run
 
 Versatility: Python is suitable for a wide range of applications, including web development, data analysis, artificial intelligence, machine learning, automation, and more. Its versatility has contributed to its widespread adoption in various domains.
 
-Overall, Python's simplicity, readability, and extensive capabilities have made it a popular choice for developers across different industries. Its large and active community ensures ongoing support, updates, and the development of new tools and libraries.end.
+Overall, Python's simplicity, readability, and extensive capabilities have made it a popular choice for developers across different industries. Its large and active community ensures ongoing support, updates, and the development of new tools and libraries.end....
